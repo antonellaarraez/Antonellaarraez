@@ -1,4 +1,4 @@
-npm i bootstrap-icons
+
 
 
 ### Hi👋there, soy Antonella Arraez
