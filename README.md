@@ -1,7 +1,7 @@
 
 
 
-### Hi👋there, soy Antonella Arraez
+### Hola👋, soy Antonella Arraez
 
 
 ## Sobre mí
@@ -10,15 +10,47 @@
 - 💻 Me apasiona la programación y desarrollo de software.
 - 🧪 Tengo un fuerte interés en la calidad de software y el testing.
 - 🌱 Siempre estoy aprendiendo nuevas tecnologías y habilidades.
-- 📫 Puedes contactarme en [antooarraez2001@gmail.com] o a través de [Anto Arraez](https://www.linkedin.com/in/anto-arraez-8bb251241).
+- 📫 Puedes contactarme en:
+-  [![Twitter](https://img.shields.io/badge/Twitter-yellow?style=for-the-badge&logo=twitter)](https://twitter.com/antoarraez)
+
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/anto-arraez-8bb251241)
+
+- [![Instagram](https://img.shields.io/badge/Instagram-Fucsia?style=for-the-badge&logo=instagram)](https://www.instagram.com/arraezantoo/)
+
+
+
+
 
 
 ## Tecnologías que manejo
+![GIF](https://i.postimg.cc/Y9pMgWbZ/64779da8dde48.gif)
 
-- Lenguajes de programación: <i class="bi bi-filetype-html"></i>
-- Frameworks y herramientas: [Lista de frameworks y herramientas]
+- Lenguajes de programación:
+- ![](https://img.shields.io/badge/HTML-orange?logo=html5)                                                       
+  
+- ![](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+       
+- ![](https://img.shields.io/badge/CSS-blueviolet?logo=css3)         
+         
+- ![](https://img.shields.io/badge/Java-red?logo=java)
+
+- ![](https://img.shields.io/badge/Python-yellow?logo=python)
+
+ 
+
+- Frameworks y herramientas:
+- ![](https://img.shields.io/badge/Git-yellow?logo=git)      - ![](https://img.shields.io/badge/Mysql-white?logo=mysql)
+
+-  ![](https://img.shields.io/badge/Mongodb-blue?logo=Mongodb)                       ![](https://img.shields.io/badge/Bootstrap-pink?logo=bootstrap)
+
+-   ![](https://img.shields.io/badge/Node.js-green?logo=node.js)                   ![](https://img.shields.io/badge/Django-black?logo=django)
+
+-    ![](https://img.shields.io/badge/VisualStudioCode-skyblue?logo=visualstudiocode)     ![](https://img.shields.io/badge/Docker-black?logo=docker)
+
+-  ![](https://img.shields.io/badge/PostgreSQL-red?logo=postresql)                     ![](https://img.shields.io/badge/Intellij-violet?logo=intellij)
+
 - 🧪 Testing de software: Creación de casos de prueba, automatización de pruebas, pruebas de unidad, pruebas de integración, etc.
-- [Otras habilidades y tecnologías]
+  
 
 ¡Gracias por visitar mi perfil de GitHub!
 
