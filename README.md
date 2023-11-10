@@ -50,8 +50,17 @@
 | PostgreSQL               | <img width="44" height="44" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-tritone-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-tritone-tal-revivo"/> |
 | IntelliJ                 | <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> |
 
+## Documentación de mi primer proyecto en equipo como tester  <img width="38" height="38" src="https://img.icons8.com/fluency/48/tester-female.png" alt="tester-female"/>                                                          
+
+*Encuentra la documentación completa del proyecto en el archivo PDF:*
+
+[Descargar Documentación](https://drive.google.com/file/d/1eeX6-U0QKx3-Ncbu_q48m2tqHum-DxVG/view?usp=sharing)
+
+
 
 ¡Gracias por visitar mi perfil de GitHub!
+
+
 
 
 
