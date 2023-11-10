@@ -13,8 +13,8 @@
 - <img width="30" height="30" src="https://img.icons8.com/dusk/64/mailbox-with-letter.png" alt="mailbox-with-letter"/> Puedes contactarme en:
 
 - [<img width="44" height="44" src="https://img.icons8.com/nolan/64/twitter.png" alt="twitter"/>](https://twitter.com/antoarraez)
-[<img width="44" height="44" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/>](https://[www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/anto-arraez-8bb251241))
-[<img width="44" height="44" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram-new"/>]([https://www.instagram.com/tuusuario/](https://www.instagram.com/arraezantoo/))
+[<img width="44" height="44" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/anto-arraez-8bb251241)
+[<img width="44" height="44" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/arraezantoo/)
 [<img width="44" height="44" src="https://img.icons8.com/nolan/64/gmail-new.png" alt="gmail-new"/>](mailto:antooarraez2001@gmail.com)
 
 
