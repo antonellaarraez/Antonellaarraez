@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-- <img width="32" height="32" src="https://img.icons8.com/dusk/64/books.png" alt="books"/>Estoy estudiando programación en la UTN de San Rafael, Mendoza.
+- <img width="32" height="32" src="https://img.icons8.com/dusk/64/books.png" alt="books"/> Estoy estudiando programación en la UTN de San Rafael, Mendoza.
 - <img width="30" height="30" src="https://img.icons8.com/dusk/64/home-office.png" alt="home-office"/> Me apasiona la programación y desarrollo de software.
 - <img width="28" height="28" src="https://img.icons8.com/dusk/64/thin-test-tube.png" alt="thin-test-tube"/> Tengo un fuerte interés en la calidad de software y el testing.
 - <img width="30" height="30" src="https://img.icons8.com/dusk/64/sprout.png" alt="sprout"/> Siempre estoy aprendiendo nuevas tecnologías y habilidades.
