@@ -1,9 +1,4 @@
-<h1 align="center">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="79%">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agency+FB&weight=1000&size=34&pause=1200&color=F7F7F7&center=true&width=800&lines=Hola+%F0%9F%91%8B%2C+soy+Antonella+Arraez" alt="Typing SVG" /></a>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="79%">
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="800">
-<br><br></h1>
+
 
 
 
